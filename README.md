@@ -20,6 +20,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/373829/maven.svg" title="Maven"  alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
+
+   <img src="https://www.svgrepo.com/show/355081/js.svg" title="JS"  alt="JS" width="40" height="40"/>&nbsp;
+   <img src="https://www.svgrepo.com/show/452092/react.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://www.svgrepo.com/show/373535/css.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
 </div>
